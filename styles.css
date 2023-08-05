@@ -26,7 +26,7 @@ body {
     margin: 5% auto;
     border: 10px solid var(--timber);
     background: var(--light-blue);
-    box-shadow: 0 0 0 19px #e7f6fd inset;
+    box-shadow: 0 0 0 20px #e7f6fd inset;
 }
 
 .text {
